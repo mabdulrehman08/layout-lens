@@ -1,0 +1,7 @@
+# 0.14.x is the last torch-native line; 0.20+ needs an external llama-server binary (see README)
+surya-ocr==0.14.7
+reportlab==5.1.0
+pdfplumber==0.11.10
+pypdfium2==5.15.2
+pillow==11.1.0
+torch==2.15.0

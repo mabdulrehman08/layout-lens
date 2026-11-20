@@ -1,0 +1,17 @@
+# model weights / caches (surya downloads these on first run)
+.cache/
+models/
+*.safetensors
+*.bin
+*.pt
+*.onnx
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# misc
+*.log
